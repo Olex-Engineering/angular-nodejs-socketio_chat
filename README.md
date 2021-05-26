@@ -1,5 +1,6 @@
-# Client
-Challenge from team lead, build chat in 2days;
+#  Chat with rooms with such tech stack - Angular, Express, Websocket
+
+## Project challenge from the team lead (developed as quickly as possible)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
@@ -14,7 +15,3 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
